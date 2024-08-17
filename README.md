@@ -1,2 +1,2 @@
-# Algorithmic Programming with Recursion
- Algorithmic Programming with Recursion, by BPB Publications
+# Think in Recursion in Algorithmic Programming
+ Think in Recursion in Algorithmic Programming, by BPB Publications
