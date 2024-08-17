@@ -1,2 +1,2 @@
-# Think in Recursion for Programmers
- Think in Recursion for Programmers, by BPB Publications
+# Think in Recursion in Algorithmic Programming
+ Think in Recursion in Algorithmic Programming, by BPB Publications
